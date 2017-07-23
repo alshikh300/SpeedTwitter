@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+SlimSocial for Twitter is an Open Source app realized by Leonardo Rignanese
+ GNU GENERAL PUBLIC LICENSE  Version 2, June 1991
+-->
+<resources>
+    <color name="officialAzureTwitter">#1da1f2</color><!--The original color of Twitter-->
+    <color name="darkAzureTwitter">#1271ac</color><!--The original color of Twitter-->
+</resources>

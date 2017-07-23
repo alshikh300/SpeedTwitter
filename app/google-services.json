@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "716709243365",
+    "firebase_url": "https://speedtwitter-6614a.firebaseio.com",
+    "project_id": "speedtwitter-6614a",
+    "storage_bucket": "speedtwitter-6614a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716709243365:android:8adae710b9bfdc79",
+        "android_client_info": {
+          "package_name": "dev.alshikh.speedtwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716709243365-o8b16mnmc73eia24sb037l4d2u3rtue7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.alshikh.speedtwitter",
+            "certificate_hash": "d61906d25ad100dffba73ac938da2a82d44c4fba"
+          }
+        },
+        {
+          "client_id": "716709243365-npa4can7vkc01m52ss1ai7duuhmk8e3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.alshikh.speedtwitter",
+            "certificate_hash": "44de9daca46aa626ba4c411691c04cfd66a47ace"
+          }
+        },
+        {
+          "client_id": "716709243365-6bs566vais20errq11llkbk170nv8a8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.alshikh.speedtwitter",
+            "certificate_hash": "25e5565294addb379bd303d77c10d837d47c18de"
+          }
+        },
+        {
+          "client_id": "716709243365-k3m5bp2lhaqvc98uph0klcmbi9mhtvbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1XDzTqV_4105ZZM89rf3zgvbqJ07-gp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716709243365-k3m5bp2lhaqvc98uph0klcmbi9mhtvbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

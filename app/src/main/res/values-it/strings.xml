@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+SlimSocial for Twitter is an Open Source app realized by Leonardo Rignanese
+ GNU GENERAL PUBLIC LICENSE  Version 2, June 1991
+-->
+<resources>
+
+    <string name="titleNoConnection">Ops, c\'è un problema!</string>
+    <string name="descriptionNoConnection">Controlla la connessione e ricarica.</string>
+    <string name="awards">Questa applicazione è Open Source.</string>
+
+</resources>

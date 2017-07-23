@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Standard theme. -->
+    <style name="SlimSocialforTwitterTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/officialAzureTwitter</item>
+        <item name="colorPrimaryDark">@color/officialAzureTwitter</item>
+
+        <!--color of floating button-->
+        <item name="colorAccent">@color/officialAzureTwitter</item>
+    </style>
+
+
+</resources>
